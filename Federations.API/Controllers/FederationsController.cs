@@ -1,8 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using Federations.Domain.Entities;
 using Federations.Domain.Models;
 using Federations.Domain.Services;
 using Microsoft.AspNetCore.Mvc;
